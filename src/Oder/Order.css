@@ -1,0 +1,30 @@
+.cartOrder{
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 5px 30px rgb(209, 207, 207);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+.cart-btn{
+    background-color: rgb(6, 221, 78);
+    padding: 20px 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+
+}
+.cart-btn2{
+    background-color: rgb(247, 43, 7);
+    padding: 20px 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+
+}
+.total{
+    text-align: center;
+    color: darkred;
+}

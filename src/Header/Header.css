@@ -1,0 +1,45 @@
+.header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:1rem 0;
+   
+    
+}
+.header-Name{
+   margin-left: 110px;
+ 
+}
+.header-Name a{
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: bold;
+    color : black
+}
+.header-item{
+    margin-right: 90px;
+}
+.header-item a{
+    margin-right: 30px;
+    text-decoration: none;
+    color:rgb(37, 37, 37);
+    font-weight: bold;
+}
+.header-item button{
+  background-color: rgb(6, 221, 78);
+  color: white;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 3px;
+}
+.btnStyle{
+    background-color: rgb(6, 221, 78);
+    padding: 5px 40px;
+    color: white;
+    border-radius: 5px;
+}
+
+.header-item .btnStyle{
+    color: white;
+}

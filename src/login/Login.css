@@ -1,0 +1,59 @@
+.login-container{
+    margin-left: 420px;
+    margin-top: 60px;
+    width: 450px;
+    height: 350px;
+    border: 1px solid rgb(85, 84, 84);
+}
+.login-cart{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 400px;
+    height: 300px;
+}
+.login-cart .cart-input{
+    margin-top: 20px;
+    width: 400px;
+    height: 30px;
+    background-color: transparent;
+    border: 0px solid;
+    outline: none;
+}
+.login-cart-child{
+   margin-top: 20px;
+}
+.login-cart-child .remember-checkbox{
+    float: left;
+     
+  }
+.forget-pass a{
+    float: right;
+   margin-right: 10px;
+  }
+  .login-btn{
+      margin-top: 30px;
+      padding: 10px 180px;
+     background-color:  rgb(6, 221, 78);
+     border: none;
+     color: white;
+     font-weight: bold;
+  }
+  .login-cart .create-account{
+  margin-top: 20px;
+  margin-left: 45px;
+  }
+.AutoSignup p{
+ margin-left: 650px;
+
+}
+.AutoSignup button{
+    margin-left: 490px;
+    padding: 15px 90px;
+    margin-top: 10px;
+    border-radius: 40px;
+border:1px solid black;
+    background-color: rgb(253, 252, 252);
+}
+.AutoSignup{
+    margin-bottom: 40px;
+}

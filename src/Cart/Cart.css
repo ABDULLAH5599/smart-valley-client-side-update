@@ -1,0 +1,43 @@
+.cart{
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    box-shadow: 5px 5px 30px rgb(163, 161, 161);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+.cart-item1{
+   
+    float: left;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+.cart-item2{
+  
+    float: right;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-right: 10px;
+}
+.total{
+    text-align: center;
+    color: darkred;
+}
+.text-danger{
+    text-align: center;
+    color: darkred;
+}
+.form-center{
+    text-align: center;
+}
+.cart-btn{
+    background-color: rgb(6, 221, 78);
+    padding: 20px 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+
+}
